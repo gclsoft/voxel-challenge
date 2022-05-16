@@ -1,3 +1,7 @@
+
+![main2 py-2022-05-17-000013](https://user-images.githubusercontent.com/1269898/168635165-8e1d1eec-0f0a-4a70-9539-6164528cd639.jpg)
+
+
 # <a name="title">Taichi Voxel Challenge</a>
 
 <p align="center">
