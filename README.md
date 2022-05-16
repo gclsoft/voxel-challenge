@@ -1,8 +1,14 @@
 
-![main2 py-2022-05-17-000013](https://user-images.githubusercontent.com/1269898/168635165-8e1d1eec-0f0a-4a70-9539-6164528cd639.jpg)
-
 
 # <a name="title">Taichi Voxel Challenge</a>
+
+![main2 py-2022-05-17-000013](https://user-images.githubusercontent.com/1269898/168635165-8e1d1eec-0f0a-4a70-9539-6164528cd639.jpg)
+
+![main2 py-2022-05-16-235011](https://user-images.githubusercontent.com/1269898/168635249-d8968e4e-23f3-44ae-b0b3-6d6f04e9c510.jpg)
+![main2 py-2022-05-16-235135](https://user-images.githubusercontent.com/1269898/168635257-432336e6-114e-4f82-b5e8-640942fb6104.jpg)
+![main2 py-2022-05-16-235146](https://user-images.githubusercontent.com/1269898/168635269-8941884c-62d1-49f9-bb99-d7fde567fad0.jpg)
+![main2 py-2022-05-16-235525](https://user-images.githubusercontent.com/1269898/168635274-7b9e214c-e397-4a48-9735-2e1affb449b6.jpg)
+![main2 py-2022-05-16-235725](https://user-images.githubusercontent.com/1269898/168635290-e86b49cb-6b61-434a-982b-68a59cf4372f.jpg)
 
 <p align="center">
 <img src="demo.jpg" width="75%"></img>
